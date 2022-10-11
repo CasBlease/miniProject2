@@ -14,3 +14,9 @@ img {
   max-width: 100%;
   height: auto;
 }
+.content {
+  max-width: 500px;
+  margin: auto;
+  background: white;
+  padding: 10px;
+}
